@@ -46,13 +46,12 @@ Construyo productos web de principio a fin: la interfaz que tocas, la API que ha
       <h3>✦ psst</h3>
       <p>Amigo invisible sin cuentas, con un <b>chat anónimo</b> entre quien regala y quien recibe para acertar con el regalo sin desvelar quién eres.</p>
       <p><sub>FastAPI · Postgres · websockets · React · PWA con push</sub></p>
-      <p><sub>🚧 publicándose antes de Navidad</sub></p>
+      <p><sub>🚧 código abierto y demo pública antes de Navidad</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>✦ wrappero</h3>
-      <p>Mi propio <i>Wrapped</i>: un resumen del año en formato <b>stories</b> a partir de las exportaciones de datos de mis apps.</p>
-      <p><sub>TypeScript · React · visualización de datos</sub></p>
-      <p><sub>🔒 privado por ahora</sub></p>
+      <h3><a href="https://github.com/aadolfo8/portafolio-carmen">✦ portafolio-carmen</a></h3>
+      <p>Portafolio para una profesional creativa: una web que pone su trabajo por delante y se carga rápido en el móvil.</p>
+      <p><sub>TypeScript · diseño web</sub></p>
     </td>
   </tr>
   <tr>
