@@ -38,30 +38,81 @@ Construyo productos web de principio a fin: la interfaz que tocas, la API que ha
   </picture>
 </p>
 
-## En qué ando
+## Proyectos destacados
+
+<a href="https://linea-de-vida.hidan.es">
+  <img alt="Línea de vida: tus fotos de Google Drive, ordenadas por fecha y convertidas en constelaciones" src="./assets/projects/linea-de-vida.svg" width="100%" />
+</a>
+
+<h3 align="center"><a href="https://github.com/aadolfo8/linea-de-vida">✦ Línea de vida</a></h3>
+
+<p align="center">
+  Las fotos de la familia, repartidas por carpetas de Drive, ordenadas por fecha y convertidas en<br />
+  una cronología que se recorre como un <b>cielo nocturno</b>: los años son constelaciones, los meses estrellas.<br />
+  <sub>solo lectura · solo las carpetas que eliges · sin IA</sub>
+</p>
+
+<p align="center">
+  <a href="https://linea-de-vida.hidan.es"><img alt="Ver en vivo" src="https://img.shields.io/badge/ver_en_vivo-F0B43A?style=for-the-badge&logo=googlechrome&logoColor=0B0F19" /></a>
+  <a href="https://github.com/aadolfo8/linea-de-vida"><img alt="Código" src="https://img.shields.io/badge/código-1F2433?style=for-the-badge&logo=github&logoColor=F0B43A" /></a>
+  <br />
+  <sub>Next.js · React · NestJS · PostgreSQL + Prisma · Redis + BullMQ · Docker</sub>
+</p>
+
+<br />
+
+<a href="https://psst.hidan.es">
+  <img alt="psst: el amigo invisible por enlace, con un chat secreto entre quien regala y quien recibe" src="./assets/projects/psst.svg" width="100%" />
+</a>
+
+<h3 align="center"><a href="https://github.com/aadolfo8/psst">✦ psst</a></h3>
+
+<p align="center">
+  Amigo invisible sin cuentas, con un <b>chat anónimo</b> entre quien regala y quien recibe<br />
+  para acertar con el regalo sin desvelar quién eres.<br />
+  <sub>sin cuentas · sin email · un enlace por WhatsApp, un nombre y un PIN</sub>
+</p>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>✦ psst</h3>
-      <p>Amigo invisible sin cuentas, con un <b>chat anónimo</b> entre quien regala y quien recibe para acertar con el regalo sin desvelar quién eres.</p>
-      <p><sub>FastAPI · Postgres · websockets · React · PWA con push</sub></p>
-      <p><sub>🚧 código abierto y demo pública antes de Navidad</sub></p>
+    <td align="center" width="33%">
+      <img alt="El revelado: las dos hojas de la celosía se abren y aparece a quién le regalas" src="./assets/projects/psst-revelado.gif" width="100%" /><br />
+      <sub>abres la celosía y ves a quién le regalas</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aadolfo8/portafolio-carmen">✦ portafolio-carmen</a></h3>
+    <td align="center" width="33%">
+      <img alt="El chat anónimo visto desde los dos lados" src="./assets/projects/psst-chat.gif" width="100%" /><br />
+      <sub>el mismo chat visto desde los dos lados</sub>
+    </td>
+    <td align="center" width="33%">
+      <img alt="Al quitar las celosías se descubre quién regalaba y quién acertó" src="./assets/projects/psst-desenmascarar.gif" width="100%" /><br />
+      <sub>al final se descubre quién acertó</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://psst.hidan.es"><img alt="Ver en vivo" src="https://img.shields.io/badge/ver_en_vivo-F0B43A?style=for-the-badge&logo=googlechrome&logoColor=0B0F19" /></a>
+  <a href="https://github.com/aadolfo8/psst"><img alt="Código" src="https://img.shields.io/badge/código-1F2433?style=for-the-badge&logo=github&logoColor=F0B43A" /></a>
+  <br />
+  <sub>FastAPI · PostgreSQL · websockets · React · Vite · PWA con push</sub>
+</p>
+
+## Otros proyectos
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/aadolfo8/portafolio-carmen">✦ portafolio-carmen</a></h4>
       <p>Portafolio para una profesional creativa: una web que pone su trabajo por delante y se carga rápido en el móvil.</p>
       <p><sub>TypeScript · diseño web</sub></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aadolfo8/corpo-wellness-studio">✦ corpo-wellness-studio</a></h3>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/aadolfo8/corpo-wellness-studio">✦ corpo-wellness-studio</a></h4>
       <p>Colección de propuestas web para una clínica: varias direcciones visuales para un mismo cliente.</p>
       <p><sub>TypeScript · diseño web</sub></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aadolfo8/galaxy-weather-react">✦ galaxy-weather</a></h3>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/aadolfo8/galaxy-weather-react">✦ galaxy-weather</a></h4>
       <p>Prueba técnica de una app del tiempo, hecha dos veces: en <a href="https://github.com/aadolfo8/galaxy-weather-react">React</a> y en <a href="https://github.com/aadolfo8/galaxy-weather-vue">Vue</a>.</p>
       <p><sub>TypeScript · React · Vue</sub></p>
     </td>
