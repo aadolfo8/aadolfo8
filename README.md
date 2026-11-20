@@ -13,13 +13,26 @@
 
 ## Sobre mí
 
-Construyo productos web de principio a fin: la interfaz que tocas, la API que hay detrás y los datos que lo sostienen. Me importa que las cosas **se entiendan sin manual** y que el código **se pueda explicar en una frase**.
+Casi cuatro años construyendo aplicaciones web: backend en **Python y Node**, bases de datos, colas de tareas y servidores. Vengo de la **ingeniería electrónica industrial y la automatización**, así que pienso en sistemas: señales que entran, procesos que no se caen, datos que llegan a tiempo. Uso la IA a diario para desarrollar (Claude, Codex, OpenCode) y también la meto en producto.
 
-- 💼 Ahora: ingeniero full stack y responsable técnico en **Logiticket Events** (plataforma de venta, CRM y ERP).
-- 🧳 Antes: **Phicus Tecnología**: backend en Django, colas de tareas y un chatbot RAG de soporte.
+Me importa que las cosas **se entiendan sin manual** y que el código **se pueda explicar en una frase**.
+
+- 📍 Murcia, España · ES nativo, EN B1–B2.
 - 🌐 Mi web: **[adolfo-clemente.pages.dev](https://adolfo-clemente.pages.dev)**, mi trayectoria dibujada como un juego de planos eléctricos.
-- 🔧 Vengo de la **Ingeniería Electrónica Industrial y Automática**: pienso en sistemas, no solo en pantallas.
+- 📄 [Descargar mi CV](https://adolfo-clemente.pages.dev/cv/AdolfoClementePalacios_CV_2026.pdf) (PDF).
 - 🌱 Ahora mismo: IA aplicada (RAG y LLMs), tiempo real con websockets y PWAs que se sienten nativas.
+
+## Experiencia
+
+| Cuándo | Dónde | Qué hice |
+| --- | --- | --- |
+| 2023 — 2025 · 2026 — hoy | **Logiticket Events**<br /><sub>Full Stack · Responsable técnico</sub> | Responsable técnico del producto: arquitectura y decisiones de diseño. Plataforma de venta, CRM para organizadores (desde cero) y ERP administrativo. Reescritura de consultas críticas e indexación en PostgreSQL: **hasta un 97 % menos de tiempo de consulta**. Diseño del esquema de datos, administración del servidor y despliegues en producción. |
+| Oct 2025 — Nov 2026 | **Phicus Tecnología**<br /><sub>Ingeniero de Software Full Stack</sub> | Backend en Django con MySQL, MongoDB y Redis; tareas asíncronas con Celery y RabbitMQ. Migración de frontends de Vue 2 a Vue 3. Diseño y desarrollo de un **chatbot RAG** de soporte a clientes (FastAPI, Qdrant, modelo local o LLM por API). |
+| Dic 2022 — Sep 2023 | **Grupo Oesía**<br /><sub>Desarrollador de Software</sub> | Aplicaciones con Angular, Express y NestJS; Git y SQL a diario. |
+| Ene — Jun 2022 | **AM Soluciones Automatización**<br /><sub>Programador de autómatas, HMI y SCADA</sub> | Programación de PLC, pantallas HMI y sistemas SCADA. |
+| Mar — Jun 2021 | **Binarii Automation Engineering**<br /><sub>Ingeniero de Automatización</sub> | Primer contacto con la industria: ingeniería de automatización. |
+
+**Formación:** Máster en Automatización Industrial (INESEM Business School, 2021–2022) · Grado en Ingeniería Electrónica Industrial y Automática (Universidad Politécnica de Cartagena, 2016–2021).
 
 ## Mi portafolio
 
