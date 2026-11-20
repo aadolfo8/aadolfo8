@@ -5,6 +5,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://adolfo-clemente.pages.dev"><img alt="Portafolio" src="https://img.shields.io/badge/portafolio-F0B43A?style=for-the-badge&logo=googlechrome&logoColor=0B0F19" /></a>
   <a href="https://www.linkedin.com/in/adolfo-clemente-palacios/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img alt="Murcia, España" src="https://img.shields.io/badge/Murcia,_España-1F2433?style=for-the-badge&logo=googlemaps&logoColor=F0B43A" />
   <img alt="Abierto a proyectos" src="https://img.shields.io/badge/abierto_a_proyectos-F0B43A?style=for-the-badge&logoColor=0B0F19" />
@@ -14,22 +15,39 @@
 
 Construyo productos web de principio a fin: la interfaz que tocas, la API que hay detrás y los datos que lo sostienen. Me importa que las cosas **se entiendan sin manual** y que el código **se pueda explicar en una frase**.
 
-- 💼 Ahora: desarrollador front-end en **Phicus Tecnología**.
-- 🧳 Antes: desarrollador full-stack en **Logiticket**.
+- 💼 Ahora: ingeniero full stack y responsable técnico en **Logiticket Events** (plataforma de venta, CRM y ERP).
+- 🧳 Antes: **Phicus Tecnología**: backend en Django, colas de tareas y un chatbot RAG de soporte.
+- 🌐 Mi web: **[adolfo-clemente.pages.dev](https://adolfo-clemente.pages.dev)**, mi trayectoria dibujada como un juego de planos eléctricos.
 - 🔧 Vengo de la **Ingeniería Electrónica Industrial y Automática**: pienso en sistemas, no solo en pantallas.
-- 🌱 Aprendiendo: Python con FastAPI, tiempo real con websockets y PWAs que se sienten nativas.
+- 🌱 Ahora mismo: IA aplicada (RAG y LLMs), tiempo real con websockets y PWAs que se sienten nativas.
+
+## Mi portafolio
+
+<a href="https://adolfo-clemente.pages.dev">
+  <img alt="Portafolio de Adolfo Clemente Palacios: portada de un juego de planos eléctricos" src="./assets/portafolio.png" width="100%" />
+</a>
+
+<p align="center">
+  Mi trayectoria, mis proyectos y mi stack leídos como un <b>juego de planos eléctricos</b>: esquema de experiencia,<br />
+  regletero de proyectos y lista de materiales. Bilingüe (ES/EN) y con el CV para descargar.<br />
+  <sub>Astro · CSS a mano · Cloudflare Pages</sub>
+</p>
+
+<p align="center">
+  <a href="https://adolfo-clemente.pages.dev"><img alt="Ver el portafolio" src="https://img.shields.io/badge/ver_el_portafolio-F0B43A?style=for-the-badge&logo=googlechrome&logoColor=0B0F19" /></a>
+</p>
 
 ## Con qué trabajo
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vue,vite,css&theme=light" />
-    <img alt="TypeScript, React, Next.js, Vue, Vite, CSS" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,vite,css&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vue,astro,vite,css&theme=light" />
+    <img alt="TypeScript, React, Next.js, Vue, Astro, Vite, CSS" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,astro,vite,css&theme=dark" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,postgres,prisma&theme=light" />
-    <img alt="Node.js, NestJS, Python, FastAPI, PostgreSQL, Prisma" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,postgres,prisma&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,fastapi,postgres,mysql,mongodb,redis,rabbitmq&theme=light" />
+    <img alt="Node.js, NestJS, Python, Django, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,fastapi,postgres,mysql,mongodb,redis,rabbitmq&theme=dark" />
   </picture>
   <br />
   <picture>
@@ -115,6 +133,13 @@ Construyo productos web de principio a fin: la interfaz que tocas, la API que ha
       <h4><a href="https://github.com/aadolfo8/galaxy-weather-react">✦ galaxy-weather</a></h4>
       <p>Prueba técnica de una app del tiempo, hecha dos veces: en <a href="https://github.com/aadolfo8/galaxy-weather-react">React</a> y en <a href="https://github.com/aadolfo8/galaxy-weather-vue">Vue</a>.</p>
       <p><sub>TypeScript · React · Vue</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/aadolfo8/lag-switch">✦ lag-switch</a></h4>
+      <p>Duelo 1v1 cenital en el navegador donde las armas son todo lo que sale mal al jugar online: servidor autoritativo, predicción en cliente y compensación de lag.</p>
+      <p><sub>TypeScript · websockets · juego multijugador</sub></p>
     </td>
   </tr>
 </table>
