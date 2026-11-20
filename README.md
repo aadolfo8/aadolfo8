@@ -71,6 +71,7 @@ Me importa que las cosas **se entiendan sin manual** y que el código **se pueda
 
 ## Proyectos destacados
 
+<!-- OCULTO-LDV
 <a href="https://linea-de-vida.hidan.es">
   <img alt="Línea de vida: tus fotos de Google Drive, ordenadas por fecha y convertidas en constelaciones" src="./assets/projects/linea-de-vida.svg" width="100%" />
 </a>
@@ -91,6 +92,7 @@ Me importa que las cosas **se entiendan sin manual** y que el código **se pueda
 </p>
 
 <br />
+-->
 
 <a href="https://psst.hidan.es">
   <img alt="psst: el amigo invisible por enlace, con un chat secreto entre quien regala y quien recibe" src="./assets/projects/psst.svg" width="100%" />
